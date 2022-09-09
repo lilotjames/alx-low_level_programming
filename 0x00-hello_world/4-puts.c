@@ -1,8 +1,11 @@
 #include <stdio.h>
 /**
- * main- Serves as the entry point for the program
+ * main -Entry point
  *
- * Return: By default returns zero if no errors otherwise returns non-zeros value
+ * This program is to output Programming is like building a
+ * multilingual puzzle
+ *
+ * Return: always zero
  */
 int main(void)
 {
